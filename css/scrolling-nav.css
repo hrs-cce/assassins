@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+
+
+/* https://codepen.io/SitePoint/pen/MwNPVq */
+#clockdiv{
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+  font-size: 5ex;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#clockdiv > div{
+	padding: 6px;
+	border-radius: 3px;
+	background: #00BF96;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 10px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 8px;
+	font-size: 15px;
+}
+
+
+
+
+
+
+header {
+  padding: 154px 0 100px;
+  background-color: #00BF96;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+img {
+  width: 100%;
+}
+
+th {
+  font-size: 19px;
+}
+td {
+  font-size: 19px;
+}
+
+.bold {
+  font-weight: 800;
+  text-align: center;
+}
+
+.note {
+  font-style: italic;
+}
+
+.lead {
+  padding-bottom: 0;
+  margin-bottom: 4px;;
+  padding-top: 10px;
+}
+
+.spacer {
+    padding-bottom: 50px;
+}
+
